@@ -10,7 +10,6 @@ public class Aula01 {
        c1.destampar();
        c1.carga = 80;
        c1.status();
-    
-    }
+        }
     
 }
