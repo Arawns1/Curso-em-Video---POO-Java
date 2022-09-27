@@ -1,0 +1,30 @@
+Cliente
+ Depositar
+ Sacar
+
+Conta
+ - numConta
+ - tipo (Conta Corrente, conta poupança) -> CC e CP
+ - dono
+ - saldo
+ - status (aberta ou fechada) aberta = true.
+ - abrirConta()
+ - fecharConta()
+ - depositar()
+ - sacar()
+ - pagarMensal()
+
+Se ele abrir uma conta corrente, ele já ganha 50 reais de saldo
+Se ele abrir uma conta poupança, ele ganha 150 reais.
+
+Não pode fechar a conta se estiver no débito ou com dinheiro dentro
+
+Para depositar a conta deve estar aberta
+Para sacar, a conta deve estar aberta e ter saldo.
+
+12 reais de mensalidade se conta corrente.
+20 reais de mensalidade se conta poupança.
+
+todos os atributos possuem getters e setters
+
+construtor -> Sempre que uma nova conta for criada, seu status sera definido como fechada e saldo 0.
