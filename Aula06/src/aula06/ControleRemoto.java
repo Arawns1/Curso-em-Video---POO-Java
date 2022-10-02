@@ -11,7 +11,7 @@ public class ControleRemoto implements Controlador {
     //Métodos Especiais
     public ControleRemoto(){
     this.volume = 50;
-    this.ligado = false;
+    this.ligado = true;
     this.tocando = false;
 }
     
