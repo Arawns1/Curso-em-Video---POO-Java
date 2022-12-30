@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Aula01/src"/>
+	<classpathentry kind="src" path="Aula03/src"/>
+	<classpathentry kind="src" path="Aula04/src"/>
+	<classpathentry kind="src" path="Aula05/src"/>
+	<classpathentry kind="src" path="Aula06/src"/>
+	<classpathentry kind="src" path="Aula07/src"/>
+	<classpathentry kind="lib" path="Aula01/dist/Aula01.jar"/>
+	<classpathentry kind="output" path="Aula01/build/classes"/>
+</classpath>
